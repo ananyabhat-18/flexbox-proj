@@ -126,3 +126,60 @@
   color: #1f2937;
   font-weight: 800;
 }
+
+.three {
+  background-color: #E5E7EB;
+  padding: 40px 50px;
+  height: 200px;
+  /* display: flex; */
+}
+
+.three p{
+  font-style: italic;
+  font-weight: light;
+  font-size: 24px;
+  padding: 50px 80px;
+  
+}
+
+.four {
+  margin: 50px;
+  padding: 25px;
+  display: flex;
+  border-radius: 5px;
+  background-color: #3882f6;
+
+}
+
+.text-box {
+  flex: 1;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  /* padding: 20px; */
+  margin: 10px;
+  
+}
+
+.signup-btn{
+  flex:1;
+  justify-content: flex-end;
+  padding: 10px;
+  
+}
+
+.signup-btn button{
+  /* background-color: #1f2937; */
+  border-radius: 5px;
+  padding: 10px;
+  border: 2px white solid;
+}
+
+.footer{
+  background-color: #1f2937;
+  color: white;
+  height: 10px;
+  text-align: center;
+  padding: 25px;
+}
+
